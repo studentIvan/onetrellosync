@@ -1,0 +1,23 @@
+{
+  "name": "onetrellosync",
+  "version": "1.0.0",
+  "description": "sync onenote daily agenda to trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studentIvan/onetrellosync.git"
+  },
+  "keywords": [
+    "onenote",
+    "trello"
+  ],
+  "author": "studentIvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studentIvan/onetrellosync/issues"
+  },
+  "homepage": "https://github.com/studentIvan/onetrellosync#readme"
+}
